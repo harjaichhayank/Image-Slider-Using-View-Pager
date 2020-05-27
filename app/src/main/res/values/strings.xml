@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageSliderUsingViewPager</string>
+    <string name="ImageView">ImageView</string>
+</resources>
